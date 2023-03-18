@@ -32,8 +32,12 @@ h3 {
   font-family: 'Share Tech Mono', monospace;
 }
 
-div {
+p {
+  padding-bottom: 30px;
+}
 
+a {
+  color: #7BC74D;
 }
 
 .bottom-cloud {
@@ -63,7 +67,7 @@ div {
 .bottom-container {
   background-color: #393E46;
   color:#EEEEEE;
-  padding: 30px 0;
+  padding: 40px 0;
 }
 
 .skill-row {
@@ -73,7 +77,7 @@ div {
   line-height: 2;
 }
 
-.ruby-image {
+.code-image {
   float: left;
   width: 25%;
   height: 25%;
