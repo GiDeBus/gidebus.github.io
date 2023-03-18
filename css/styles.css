@@ -38,6 +38,18 @@ p {
 
 a {
   color: #7BC74D;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+img {
+  height: 15%;
+  width: 15%;
 }
 
 .moon-img {
@@ -51,11 +63,6 @@ a {
 .wolf-img {
   height: 120px;
   width: 120px;
-}
-
-img {
-  height: 15%;
-  width: 15%;
 }
 
 .top-cloud {
@@ -81,7 +88,7 @@ img {
 .bottom-container {
   background-color: #393E46;
   color:#EEEEEE;
-  padding: 40px 0;
+  padding: 20px 0;
 }
 
 .skill-row {
@@ -122,4 +129,9 @@ img {
   background-image: -o-linear-gradient(top, #7BC74D, #69a642);
   background-image: linear-gradient(to bottom, #7BC74D, #69a642);
   text-decoration: none;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding: 50px 0 0 0;
 }
