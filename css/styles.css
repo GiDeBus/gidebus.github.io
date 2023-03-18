@@ -40,16 +40,25 @@ a {
   color: #7BC74D;
 }
 
-.bottom-cloud {
+.moon-img {
+  bottom: 300px;
+  height: 180px;
   position: absolute;
   left: 300px;
-  bottom: 300px;
+  width: 180px;
+}
+
+img {
+  height: 15%;
+  width: 15%;
 }
 
 .top-cloud {
   position: absolute;
   right:300px;
   top: 50px;
+  width: 150px;
+  height: 48px;
 }
 
 .top-container {
@@ -77,17 +86,13 @@ a {
   line-height: 2;
 }
 
-.code-image {
+.code-img {
   float: left;
-  width: 25%;
-  height: 25%;
   margin-right: 30px;
 }
 
-.gi-image {
+.gi-img {
   float: right;
-  width: 25%;
-  height: 25%;
   margin-left: 30px;
 }
 
