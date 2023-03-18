@@ -76,24 +76,24 @@ img {
 .top-container {
   position: relative;
   padding-top: 80px;
-  background-color: #222831;
+  background-color: black;
   color: #EEEEEE;
 }
 
 .middle-container {
-  background-color: #EEEEEE;
+  background-color: white;
   padding: 50px 0;
 }
 
 .bottom-container {
-  background-color: #393E46;
+  background-color: black;
   color:#EEEEEE;
   padding: 20px 0;
 }
 
 .skill-row {
   width: 50%;
-  margin: 100px auto;
+  margin: 50px auto;
   text-align: left;
   line-height: 2;
 }
