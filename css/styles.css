@@ -48,29 +48,21 @@ a:hover {
 }
 
 img {
-  height: 180px;
-  width: 180px;
+  height: 11.25rem;
+  width: 11.25rem;
 }
 
 .moon-img {
-  bottom: 300px;
-  height: 180px;
+  top: 1%;
+  height: 8rem;
   position: absolute;
-  left: 300px;
-  width: 180px;
+  left: 10%;
+  width: 8rem;
 }
 
 .wolf-img {
-  height: 120px;
-  width: 120px;
-}
-
-.top-cloud {
-  position: absolute;
-  right:300px;
-  top: 50px;
-  width: 150px;
-  height: 48px;
+  height: 7rem;
+  width: 7rem;
 }
 
 .top-container {
@@ -100,12 +92,12 @@ img {
 
 .code-img {
   float: left;
-  margin-right: 30px;
+  margin-right: 1.875rem;
 }
 
 .gi-img {
   float: right;
-  margin-left: 30px;
+  margin-left: 1.875rem;
 }
 
 .btn {
