@@ -33,8 +33,7 @@ h3 {
 }
 
 p {
-  padding-bottom: 30px;
-  width: 21.875;
+  margin-bottom: 30px;
 }
 
 a {
@@ -62,8 +61,8 @@ img {
 }
 
 .wolf-img {
-  height: 7rem;
-  width: 7rem;
+  height: 5.5rem;
+  width: auto;
 }
 
 .top-container {
