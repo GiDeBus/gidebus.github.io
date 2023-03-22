@@ -34,6 +34,7 @@ h3 {
 
 p {
   padding-bottom: 30px;
+  width: 21.875;
 }
 
 a {
@@ -54,10 +55,10 @@ img {
 
 .moon-img {
   top: 1%;
-  height: 8rem;
+  height: 7rem;
   position: absolute;
-  left: 10%;
-  width: 8rem;
+  left: 2%;
+  width: auto;
 }
 
 .wolf-img {
